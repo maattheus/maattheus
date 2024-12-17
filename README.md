@@ -10,7 +10,7 @@ Sou desenvolvedor **Back-End com Laravel** e **Front-End com Angular**. Apaixona
 - 📋 **Metodologias Ágeis:** Scrum, Kanban
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-oliveira-087730177/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-oliveira-087730177/)
 - ✉️ E-mail: matheusoliverasouza@gmail.com
 
 ---
