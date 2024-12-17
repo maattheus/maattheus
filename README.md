@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Matheus. 
 
-<!--
-**maattheus/maattheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor **Back-End com Laravel** e **Front-End com Angular**. Apaixonado por resolver problemas e criar soluções eficientes. Sempre em busca de novos desafios e aprendizado contínuo.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- 🖥️ **Back-End:** Laravel, PHP, MySQL, Oracle, API REST
+- 🌐 **Front-End:** Angular, TypeScript, HTML, CSS
+- 🧪 **Testes:** PHPUnit, Jasmine
+- 🔧 **Ferramentas:** Git, Docker, Jenkins
+- 📋 **Metodologias Ágeis:** Scrum, Kanban
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-oliveira-087730177/))
+- ✉️ E-mail: matheusoliverasouza@gmail.com
+
+---
+
+"Seja a mudança que você quer ver no mundo" – Gandhi
